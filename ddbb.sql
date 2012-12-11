@@ -2,7 +2,6 @@
 -- version 2.6.4-pl3
 -- http://www.phpmyadmin.net
 -- 
--- Servidor: db392308074.db.1and1.com
 -- Tiempo de generación: 10-10-2012 a las 12:05:56
 -- Versión del servidor: 5.0.95
 -- Versión de PHP: 5.3.3-7+squeeze14
